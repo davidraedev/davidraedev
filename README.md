@@ -6,4 +6,4 @@ I am a Principal Solutions Architect specializing in distributed systems, Node.j
 
 Check out my pinned repository for an architectural overview of my latest commercial project, or drop me a line to talk system design!
 
-**Say Hi:** [davidraedev.com](https://davidraedev.com)
+**Say Hello:** [davidraedev.com](https://davidraedev.com)
