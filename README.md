@@ -1,9 +1,9 @@
 ### Hi! I'm David Rae.
 
-I am a Senior Backend Engineer specializing in distributed systems, Node.js, and hybrid infrastructure (Cloud & Bare-Metal Linux). For the last 9 years, I have operated as an independent consultant building highly scalable, data-intensive applications.
+I'm a Senior Backend Engineer specializing in distributed systems, Node.js, and hybrid infrastructure (cloud and bare-metal Linux). For the last 9 years I've worked as an independent consultant building scalable, data-intensive applications. That client work lives in private repositories under NDA, which is why my contribution graph is quiet.
 
-**Why is my contribution graph mostly empty?** 100% of my client work and commercial R&D over the last decade has been built in private, proprietary repositories under NDA.
+**Currently**: I'm building [SpeechWeave](https://speechweave.com), an OpenAI-compatible speech-to-text API. I designed and built the platform end to end: the API and job orchestration, cost-aware scheduling across GPU providers, billing, and the official SDKs pinned below. The platform itself is closed source.
 
-Check out my pinned repository for an architectural overview of my latest commercial project, or drop me a line to talk system design!
+**Open source**: contributor to [Kilo Code](https://github.com/Kilo-Org/kilocode/pull/3807)
 
-**Say Hello:** [davidraedev.com](https://davidraedev.com)
+Happy to talk system design: [davidraedev.com](https://davidraedev.com)
